@@ -4,8 +4,7 @@ Trayced Is A Reversing\Exploit Toolkit Designed To Make Disassembly Easy To Perf
 Trayced Core Features Are:
 
 Disassembly:
-The Disassembler Implemented Will Be Written From Scratch And Will Not Use Any Libraries For The Disassembler.
-It Will Mostly Disassemble Intel x86 and x86_x64.
+Air
 
 HexViewer\Editor:
 Just a Handy Tool To Use and it will be pretty colorful.
